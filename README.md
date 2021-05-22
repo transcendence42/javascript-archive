@@ -1,3 +1,18 @@
+## 🗣 JS Discussion 스터디
+
+- [JS Discussion](https://github.com/transcendence42/javascript-archive/discussions/categories/js%EC%8A%A4%ED%84%B0%EB%94%94) **진행 방법**
+
+하나의 Discussion에는 키워드 하나와 하위 주제 키워드가 주어집니다. 
+
+1. 각 Discussion마다 로테이션으로 한명이 배정됩니다.
+2. 최초의 사람은 해당 주제/하위 주제키워드에 대해 학습을하고 학습을 하며 생긴 질문을 만든 뒤 스스로 답변을 합니다. / 혹은 질문을 모두에게 던질 수 있습니다.
+3. 다음 사람을 답변 상단에 태그합니다.
+4. 다음 사람이 해당 주제에 대해 학습을하고 답변/질문을 합니다.
+5. 다음 사람을 답변 상단에 태그합니다.
+6. (반복)...
+
+**해당 순서가 아니여도 질문이나 토의 내용이있으면 댓글로 참여 가능합니다.**
+
 ## 🌱 Javascript
 
   |   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
