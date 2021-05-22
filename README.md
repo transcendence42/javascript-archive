@@ -35,9 +35,9 @@
   |   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
   | :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :---------------: | :----------: |
   |||||||
-  | [행운의 로또]()   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-  | [페이먼츠]()   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-  | [장바구니]()   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+  | [행운의 로또](https://github.com/2021-woowacourse-frontend/react-lotto)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+  | [페이먼츠](https://github.com/2021-woowacourse-frontend/react-payments)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+  | [장바구니](https://github.com/2021-woowacourse-frontend/react-shopping-cart)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
 
   - 과정 목표
     - 모던 SPA 웹 애플리케이션을 온전히 개발한다. (React 생태계)
