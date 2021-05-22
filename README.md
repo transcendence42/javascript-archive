@@ -13,6 +13,10 @@
 
 **해당 순서가 아니여도 질문이나 토의 내용이있으면 댓글로 참여 가능합니다.**
 
+## ❓ 질문 공간
+
+- [질문 공간](https://github.com/transcendence42/javascript-archive/discussions/categories/q-a)
+
 ## 🌱 Javascript
 
   |   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
