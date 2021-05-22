@@ -18,12 +18,12 @@
   |   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
   | :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :---------------: | :----------: |
   |||||||
-  | [Cypress 맛보기](https://github.com/2021-woowacourse-frontend/cypress-basic)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-  | [계산기 미션](https://github.com/2021-woowacourse-frontend/javascript-calculator)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-  | [자동차 경주 게임](https://github.com/2021-woowacourse-frontend/javascript-racingcar)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-  | [행운의 로또](https://github.com/2021-woowacourse-frontend/javascript-lotto)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-  | [유튜브 강의실](https://github.com/2021-woowacourse-frontend/javascript-youtube-classroom)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-  | [지하철 노선도](https://github.com/2021-woowacourse-frontend/javascript-subway)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+  | [Cypress 맛보기](https://github.com/2021-woowacourse-frontend/cypress-basic)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+  | [계산기 미션](https://github.com/2021-woowacourse-frontend/javascript-calculator)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+  | [자동차 경주 게임](https://github.com/2021-woowacourse-frontend/javascript-racingcar)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+  | [행운의 로또](https://github.com/2021-woowacourse-frontend/javascript-lotto)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+  | [유튜브 강의실](https://github.com/2021-woowacourse-frontend/javascript-youtube-classroom)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+  | [지하철 노선도](https://github.com/2021-woowacourse-frontend/javascript-subway)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
 
   - 과정 목표
     - 프론트엔드의 기본이 되는 HTML, CSS, TS에 대한 기본 문법을 익혀 프로그래밍을 한다.
