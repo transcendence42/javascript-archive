@@ -22,10 +22,10 @@
 |   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
 | :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :---------------: | :----------: |
 ||||||||||
-| [숫자 야구 게임](https://github.com/transcendence42/javascript-baseball-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/1) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/2) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/3) | [PR]() | [피드백 정리](./feedback/javascript-baseball-precourse.md) | - |
-| [자동차 경주 게임](https://github.com/transcendence42/javascript-racingcar-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-racingcar-precourse/pull/1) | [PR]() | [PR]() | [PR]() | [피드백 정리]() | - |
-| [지하철 노선도 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-| [지하철 노선도 경로 조회 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() | - |
+| [숫자 야구 게임](https://github.com/transcendence42/javascript-baseball-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/1) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/2) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/3) | PR | [피드백 정리](./feedback/javascript-baseball-precourse.md) | - |
+| [자동차 경주 게임](https://github.com/transcendence42/javascript-racingcar-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-racingcar-precourse/pull/1) | PR | PR | PR | 피드백 정리 | - |
+| [지하철 노선도 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  PR | PR | PR | PR | 피드백 정리 |  |
+| [지하철 노선도 경로 조회 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  PR | PR | PR | PR | 피드백 정리 | - |
 
   - 과정 목표
     - 프론트엔드의 기본이 되는 HTML, CSS, JS에 대한 기본 문법을 익혀 프로그래밍을 한다.
@@ -37,12 +37,12 @@
 |   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
 | :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :---------------: | :----------: |
 |||||||
-| [Cypress 맛보기](https://github.com/transcendence42/cypress-basic)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-| [계산기 미션](https://github.com/transcendence42/javascript-calculator)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-| [자동차 경주 게임](https://github.com/transcendence42/javascript-racingcar)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-| [행운의 로또](https://github.com/transcendence42/javascript-lotto)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-| [유튜브 강의실](https://github.com/transcendence42/javascript-youtube-classroom)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-| [지하철 노선도](https://github.com/transcendence42/javascript-subway)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+| [Cypress 맛보기](https://github.com/transcendence42/cypress-basic)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
+| [계산기 미션](https://github.com/transcendence42/javascript-calculator)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
+| [자동차 경주 게임](https://github.com/transcendence42/javascript-racingcar)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
+| [행운의 로또](https://github.com/transcendence42/javascript-lotto)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
+| [유튜브 강의실](https://github.com/transcendence42/javascript-youtube-classroom)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
+| [지하철 노선도](https://github.com/transcendence42/javascript-subway)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
 
   - 과정 목표
     - 프론트엔드의 기본이 되는 HTML, CSS, TS에 대한 기본 문법을 익혀 프로그래밍을 한다.
@@ -54,9 +54,9 @@
 |   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
 | :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :---------------: | :----------: |
 |||||||
-| [행운의 로또](https://github.com/transcendence42/react-lotto)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-| [페이먼츠](https://github.com/transcendence42/react-payments)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
-| [장바구니](https://github.com/transcendence42/react-shopping-cart)   | - |  |  [PR]() | [PR]() | [PR]() | [PR]() | [피드백 정리]() |  |
+| [행운의 로또](https://github.com/transcendence42/react-lotto)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
+| [페이먼츠](https://github.com/transcendence42/react-payments)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
+| [장바구니](https://github.com/transcendence42/react-shopping-cart)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
 
   - 과정 목표
     - 모던 SPA 웹 애플리케이션을 온전히 개발한다. (React 생태계)
