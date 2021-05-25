@@ -10,7 +10,7 @@
 - **style (formatting, missing semi colons, …)**
 - **refactor**
 - **test (when adding missing tests)**
-- **chore (maintain) i.e. git, linter, code formater **
+- **chore (maintain) i.e. git, linter, code formater**
 
 ### 참고
 
