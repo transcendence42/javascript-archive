@@ -24,7 +24,7 @@
 ||||||||||
 | [숫자 야구 게임](https://github.com/transcendence42/javascript-baseball-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/1) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/2) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/3) | PR | [피드백 정리](./feedback/javascript-baseball-precourse.md) | - |
 | [자동차 경주 게임](https://github.com/transcendence42/javascript-racingcar-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-racingcar-precourse/pull/1) | PR | PR | PR | 피드백 정리 | - |
-| [지하철 노선도 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  PR | PR | PR | PR | 피드백 정리 |  |
+| [지하철 노선도 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-subway-map-precourse/pull/1) | PR | PR | PR | 피드백 정리 |  |
 | [지하철 노선도 경로 조회 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  PR | PR | PR | PR | 피드백 정리 | - |
 
   - 과정 목표
