@@ -19,13 +19,14 @@
 
 ## 🌱 Javascript
 
-|   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
-| :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :---------------: | :----------: |
+|   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  | 외부 리뷰어님    |
+| :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :----------: |
 ||||||||||
-| [숫자 야구 게임](https://github.com/transcendence42/javascript-baseball-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/1) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/2) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/3) | PR | [피드백 정리](./feedback/javascript-baseball-precourse.md) | - |
-| [자동차 경주 게임](https://github.com/transcendence42/javascript-racingcar-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-racingcar-precourse/pull/1) | [PR](https://github.com/transcendence42/javascript-racingcar-precourse/pull/2) | [PR](https://github.com/transcendence42/javascript-racingcar-precourse/pull/3) | PR | 피드백 정리 | - |
-| [지하철 노선도 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-subway-map-precourse/pull/1) | PR | PR | PR | 피드백 정리 |  |
-| [지하철 노선도 경로 조회 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  PR | PR | PR | PR | 피드백 정리 | - |
+| [숫자 야구 게임](https://github.com/transcendence42/javascript-baseball-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/1) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/2) | [PR](https://github.com/transcendence42/javascript-baseball-precourse/pull/3) | PR | [@yujo11](https://github.com/yujo11) |
+| [자동차 경주 게임](https://github.com/transcendence42/javascript-racingcar-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-racingcar-precourse/pull/1) | [PR](https://github.com/transcendence42/javascript-racingcar-precourse/pull/2) | [PR](https://github.com/transcendence42/javascript-racingcar-precourse/pull/3) | PR | [@yujo11](https://github.com/yujo11) |
+| [지하철 노선도 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  [PR](https://github.com/transcendence42/javascript-subway-map-precourse/pull/1) | PR | PR | PR |  |
+| [지하철 노선도 경로 조회 미션](https://github.com/transcendence42/javascript-subway-map-precourse)   |  | - |  PR | PR | PR | PR | - |
+| 🌟 회고록 🌟 | - | - | [holee 회고록](./feedback/javascript-baseball-precourse.md) | [jwon 회고록](./feedback/javascript-baseball-precourse.md) | [yechoi 회고록](./feedback/javascript-baseball-precourse.md) | [yshin 회고록](./feedback/javascript-baseball-precourse.md) | - |
 
   - 과정 목표
     - 프론트엔드의 기본이 되는 HTML, CSS, JS에 대한 기본 문법을 익혀 프로그래밍을 한다.
