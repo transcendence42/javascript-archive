@@ -38,7 +38,7 @@
 |   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
 | :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :---------------: | :----------: |
 |||||||
-| [Cypress 맛보기](https://github.com/transcendence42/cypress-basic)   | - | ✅ |  [PR](https://github.com/transcendence42/cypress-basic/pull/2) | PR | PR | PR | 피드백 정리 |  |
+| [Cypress 맛보기](https://github.com/transcendence42/cypress-basic)   | - | ✅ |  [PR](https://github.com/transcendence42/cypress-basic/pull/2) | PR | PR | [PR](https://github.com/transcendence42/cypress-basic/pull/3) | 피드백 정리 |  |
 | [계산기 미션](https://github.com/transcendence42/javascript-calculator)   | - | ✅ |  PR | PR | PR | PR | 피드백 정리 |  |
 | [자동차 경주 게임](https://github.com/transcendence42/javascript-racingcar)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
 | [행운의 로또](https://github.com/transcendence42/javascript-lotto)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
