@@ -35,14 +35,14 @@
 
 ## 🥚 Typescript
 
-|   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  코드리뷰 🌟   |    리뷰어님    |
+|   프로젝트    |  JS  |  TS  |  holee   |  jwon  |  yechoi  |  yshin  |   🌟  페어코딩 🌟   |    리뷰어님    |
 | :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :---------------: | :----------: |
 |||||||
 | [Cypress 맛보기](https://github.com/transcendence42/cypress-basic)   | - | ✅ |  [PR](https://github.com/transcendence42/cypress-basic/pull/2) | PR | PR | [PR](https://github.com/transcendence42/cypress-basic/pull/3) | 피드백 정리 |  |
 | [계산기 미션](https://github.com/transcendence42/javascript-calculator)   | - | ✅ |  [PR](https://github.com/transcendence42/javascript-calculator/pull/2) | [PR](https://github.com/transcendence42/javascript-calculator/pull/4) | [PR](https://github.com/transcendence42/javascript-calculator/pull/1) | [PR](https://github.com/transcendence42/javascript-calculator/pull/3) | 피드백 정리 |  |
 | [자동차 경주 게임](https://github.com/transcendence42/javascript-racingcar)   | - | ✅ |  [PR](https://github.com/transcendence42/javascript-racingcar/pull/1) | [PR](https://github.com/transcendence42/javascript-racingcar/pull/4) | [PR](https://github.com/transcendence42/javascript-racingcar/pull/2) | [PR](https://github.com/transcendence42/javascript-racingcar/pull/3) | 피드백 정리 |  |
 | [행운의 로또](https://github.com/transcendence42/javascript-lotto)   | - | ✅ |  PR | PR | PR | PR | 피드백 정리 |  |
-| [유튜브 강의실](https://github.com/transcendence42/javascript-youtube-classroom)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
+| [유튜브 강의실](https://github.com/transcendence42/javascript-youtube-classroom)   | - | ✅ |  [PR](https://github.com/transcendence42/javascript-youtube-classroom/pull/1) | PR | [PR](https://github.com/transcendence42/javascript-youtube-classroom/pull/1) | PR | (holee, yechoi), (jwon, yshin) |  |
 | [지하철 노선도](https://github.com/transcendence42/javascript-subway)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
 
   - 과정 목표
