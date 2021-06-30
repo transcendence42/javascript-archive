@@ -56,7 +56,7 @@
 | :---------- | :--: | :--: | :------: | :----: | :------: | :-----: | :---------------: | :----------: |
 |||||||
 | [행운의 로또](https://github.com/transcendence42/react-lotto)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
-| [페이먼츠](https://github.com/transcendence42/react-payments)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
+| [페이먼츠](https://github.com/transcendence42/react-payments)   | - |  |  [PR](https://github.com/transcendence42/react-payments/pull/2) | PR | PR | PR | 피드백 정리 |  |
 | [장바구니](https://github.com/transcendence42/react-shopping-cart)   | - |  |  PR | PR | PR | PR | 피드백 정리 |  |
 
   - 과정 목표
